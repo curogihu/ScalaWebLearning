@@ -1,0 +1,11 @@
+Lecture. 01
+
+Type the following commands on Mac terminal
+1. java -version
+2. brew install sbt
+-> The error message said "Homebrew must be run under Ruby 2.3! You're running 2.0.0. (RuntimeError)"
+
+3. brew update
+
+brew install sbt
+-> success
