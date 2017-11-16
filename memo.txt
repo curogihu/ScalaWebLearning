@@ -9,3 +9,6 @@ Type the following commands on Mac terminal
 
 brew install sbt
 -> success
+
+Error while importing SVT project
+brew install scala, then get Scala SDK
