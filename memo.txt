@@ -11,4 +11,12 @@ brew install sbt
 -> success
 
 Error while importing SVT project
-brew install scala, then get Scala SDK
+brew install scala, then get Scala SDK 
+
+Same error showed after installing Scala.
+1. File/Invalidate cache/Restart
+
+Now appear Scala class or something when do right click -> create
+1. Right click on your project, "Add Framework support" and choose Scala framework
+2. Project Structure -> Modules -> right click folder and Mark as "Source" (blue)
+
